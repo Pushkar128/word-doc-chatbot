@@ -2,4 +2,4 @@ streamlit
 python-docx
 langchain
 openai
-faiss-cpu
+
